@@ -1,0 +1,30 @@
+.lsf{
+    width: 225px;
+    background: transparent;
+    color: #2888ff;
+    border: 1px solid #999999;
+    text-transform: none;
+    font-family: monospace;
+    margin-top: 5px;
+    height: 45px;
+}
+.lsg{
+    width: 225px;
+    background: transparent;
+    color: #d15757;
+    border: 1px solid #999999;
+    text-transform: none;
+    font-family: monospace;
+    margin-top: 5px;
+    height: 45px;
+}
+.lem{
+    width: 225px;
+    background: transparent;
+    color: gray;
+    border: 1px solid #999999;
+    text-transform: none;
+    font-family: monospace;
+    height: 45px;
+}
+
